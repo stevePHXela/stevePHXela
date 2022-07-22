@@ -1,6 +1,6 @@
 # Hi there, I'm Steve Ela 👋 
 
-## I'm a  Developer, and Student!!
+## I'm a  Self-taught Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
