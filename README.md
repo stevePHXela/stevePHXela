@@ -2,10 +2,10 @@
 
 ## I'm a  Self-taught Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning web/product Design & modren web concepts
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to workout / bodybuilding
+- 🥅 2023 Goals: Learn Game development & AI
+- ⚡ Fun fact: I love to workout (bodybuilding) & Playing video games
 
 ### Connect with me:
 
