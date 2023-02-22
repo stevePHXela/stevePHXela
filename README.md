@@ -1,10 +1,11 @@
 # Hi there, I'm Steve Ela 👋 
 
 ## I'm a  Self-taught Developer!
+### Currently working as Full stack web designer.
 
-- 🌱 I’m currently learning web/product Design & modren web development concepts
-- 👯 I’m open to work with other content creators
-- 🥅 2023 Goals: Learn Game development & AI
+- 🌱 I’m currently learning web Video game development.
+- 👯 I’m open to work with other content creators.
+- 🥅 2023 Goals: Learn Games development & AI
 - ⚡ Fun fact: I love to workout (bodybuilding) & Playing video games
 
 ### Connect with me:
